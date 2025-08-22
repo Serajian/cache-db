@@ -24,3 +24,6 @@
 # IDE files
 .vscode/
 .idea/
+
+data/
+*.gob
