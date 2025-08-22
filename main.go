@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Serajian/cache-db.git/database"
+	"github.com/Serajian/cache-db/database"
 )
 
 func main() {

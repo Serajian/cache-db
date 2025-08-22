@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Serajian/cache-db.git/model"
+	"github.com/Serajian/cache-db/model"
 )
 
 // Database is a generic in-memory KV store with optional per-key TTL and persistence.
