@@ -12,7 +12,7 @@ A lightweight **in-memory key-value store** for Go with:
 ### 🚀 Installation
 
 ```bash
-go get github.com/Serajian/cache-db.git
+go get github.com/Serajian/cache-db@latest
 ```
 
 ---
